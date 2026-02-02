@@ -6,21 +6,21 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 - Senior pursuing a **B.S. in Computer Science**
 - Interested in **software engineering, data structures, and system design**
 - I like to play video games like **Valorant & Hollow Knight** in my free time
 
 ---
 
-## 🛠️ Tech & Tools
-- **Languages:** Java, Python, C++, JavaScript
+# 🛠️ Tech & Tools
+- **Languages:** Java, Python, C++, R, SQL
 - **Concepts:** OOP, Data Structures, Algorithms, Databases
 - **Tools:** Git, GitHub, VS Code, Visual Studio 2022, IntelliJ IDEA
 
 ---
 
-## 📌 Current Focus
+# 📌 Current Focus
 - Improving software design skills  
 - Building larger, end-to-end projects  
 - Learning best practices for clean, maintainable code  
