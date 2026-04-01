@@ -1,6 +1,6 @@
 # Hey, I'm Aiden 👋
 
-I'm a Computer Science student at the University of Central Arkansas with a passion for building clean, well-tested software. Currently interning at **First Orion** as a Data Verification Analyst, where I built Python automation tools to automate a part of our data entry process.
+I'm a Computer Science student at the University of Central Arkansas with a passion for building clean, well-tested software. Currently interning at **First Orion** as a Data Verification Analyst, where I built a Python automation tool to automate a part of our data entry process.
 
 I led the development of **CodePulse** which is an AI-powered code quality and bug prediction dashboard built with React, FastAPI, and PostgreSQL, featuring OpenAI GPT integration, 167 automated tests, and three CI/CD pipelines. 
 
